@@ -1,4 +1,4 @@
-# sql-final-project
+# toy-ecommerce-sql
 The goal of this project is to use SQL to explore and extract insights from data in a database. Made for a final project.
 
 ## About the Data
